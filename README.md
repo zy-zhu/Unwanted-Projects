@@ -1,2 +1,7 @@
 # Unwanted-Projects
-a website for unwanted projects
+This is a project 
+
+## Design Team 
+
+Zoey Ziyuan Zhu @IDEO 
+Suwan Kim @MIT 
