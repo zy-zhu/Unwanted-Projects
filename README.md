@@ -3,6 +3,6 @@ This is a project for [Cambridge Science Festival 2022](https://cambridgescience
 
 ## Design Team 
 
-Zoey Ziyuan Zhu @IDEO 
+[Zoey Ziyuan Zhu](https://iam-zy.com/) @IDEO 
 
-Suwan Kim @MIT 
+[Suwan Kim](https://vimeo.com/396362318) @MIT 
